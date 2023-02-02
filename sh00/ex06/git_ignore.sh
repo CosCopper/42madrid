@@ -1,2 +1,2 @@
 #!/bin/sh
-git ls-files --others
+git ls-files --others --ignored --exclude-standard
